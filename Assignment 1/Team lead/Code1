@@ -1,0 +1,7 @@
+//C++ code 
+//
+int i=2;
+int e=3;
+void setup() 
+{
+   Serial.begin
